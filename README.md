@@ -1,2 +1,3 @@
-# 02-react-cafe
-Module 2. Components and condition
+# 03-react-movies
+
+Module 3. Forms and Effects
